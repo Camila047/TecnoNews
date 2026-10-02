@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TecnoNews — Noticias</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <main class="page-wrap">
+    <a href="index.html" class="back-link">← Volver al inicio</a>
+    <h1>Noticias</h1>
+    <p class="page-sub" id="totalTexto">Cargando…</p>
+
+    <div class="list-layout">
+      <!-- Sidebar -->
+      <aside class="sidebar">
+        <div class="sidebar-card">
+          <h3>Categorías</h3>
+          <div class="search-box">
+            <span class="icon">🔍</span>
+            <input type="text" id="inputBusqueda" placeholder="Buscar...">
+          </div>
+          <ul class="cat-list" id="listaCategorias"></ul>
+        </div>
+      </aside>
+
+      <!-- Contenido -->
+      <div class="list-main">
+        <div class="list-toolbar">
+          <p id="contadorTexto" style="font-size:0.9rem;color:var(--texto-secundario);margin:0;"></p>
+          <div>
+            <label for="selectOrden" style="font-size:0.78rem;color:var(--texto-claro);">Ordenar por:</label>
+            <select id="selectOrden">
+              <option value="recientes">Más recientes</option>
+              <option value="antiguos">Más antiguos</option>
+              <option value="az">A-Z</option>
+            </select>
+          </div>
+        </div>
+        <div id="noticiasGrid"></div>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/utils.js"></script>
+  <script src="js/noticias.js"></script>
+</body>
+</html>

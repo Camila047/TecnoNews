@@ -1,0 +1,138 @@
+{
+  "categories": [
+    { "name": "Tecnología", "color": "#3b82f6", "icon": "💻" },
+    { "name": "Educación", "color": "#8b5cf6", "icon": "📚" },
+    { "name": "Turismo", "color": "#f59e0b", "icon": "✈️" },
+    { "name": "Comercio", "color": "#10b981", "icon": "🛒" }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "OpenAI lanza GPT-5: así es el nuevo modelo de IA",
+      "excerpt": "OpenAI ha presentado oficialmente GPT-5, su modelo de inteligencia artificial más avanzado hasta la fecha.",
+      "content": "OpenAI ha presentado oficialmente GPT-5, su modelo de inteligencia artificial más avanzado hasta la fecha. Esta nueva versión promete mejoras significativas en razonamiento, velocidad y capacidad de comprender contextos complejos, acercando aún más la IA a las necesidades reales de los usuarios.\n\nEl modelo fue presentado en un evento especial transmitido en vivo desde San Francisco, donde el equipo de OpenAI demostró capacidades que hasta hace poco parecían ciencia ficción: comprensión multimodal avanzada, generación de código más precisa y una memoria contextual ampliada.\n\nSegún Sam Altman, CEO de OpenAI, GPT-5 representa un salto cualitativo en la capacidad de los modelos de lenguaje para razonar y colaborar con humanos de forma más efectiva y segura.",
+      "category": "Tecnología",
+      "author": "Ana Gómez",
+      "date": "12 ago 2026",
+      "readTime": "5 min de lectura",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=500&fit=crop&auto=format",
+      "highlights": [
+        "Mayor precisión en respuestas complejas.",
+        "Integración con herramientas de productividad.",
+        "Disponible en versión gratuita y de pago."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "5 destinos tecnológicos que debes conocer en 2026",
+      "excerpt": "Descubre los destinos que están fusionando turismo y tecnología para ofrecer experiencias únicas.",
+      "content": "El turismo tecnológico es una tendencia que creció exponencialmente en los últimos años. Ciudades como Tokio, Singapur y Dubái lideran este movimiento, ofreciendo experiencias inmersivas que combinan realidad aumentada, inteligencia artificial y diseño futurista.\n\nEstos destinos no solo ofrecen atracciones tradicionales: la experiencia completa incluye hoteles automatizados, transporte autónomo y restaurantes con cocina robótica. Para el viajero moderno, el destino ideal ahora es una extensión de su mundo digital.\n\nEn América Latina, ciudades como Medellín y São Paulo también están emergiendo como hubs tecnológicos que atraen a turistas de todo el mundo.",
+      "category": "Turismo",
+      "author": "Carlos Rivera",
+      "date": "10 ago 2026",
+      "readTime": "4 min de lectura",
+      "image": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=800&h=500&fit=crop&auto=format",
+      "highlights": [
+        "Tokio: la ciudad más tecnológica del mundo.",
+        "Singapur: innovación y sostenibilidad.",
+        "Medellín: el Silicon Valley latinoamericano."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Plataformas online que están transformando la educación",
+      "excerpt": "El aprendizaje digital evoluciona con plataformas que personalizan la experiencia de cada estudiante.",
+      "content": "La educación en línea vivió una revolución silenciosa pero profunda. Plataformas como Coursera, Khan Academy y nuevas startups latinoamericanas están redefiniendo cómo aprendemos, cuándo y a qué ritmo.\n\nLa personalización es la gran apuesta: los algoritmos de IA analizan el patrón de estudio de cada usuario y adaptan el contenido, la dificultad y el ritmo para maximizar la retención. Los resultados son notables: los estudiantes que usan plataformas adaptativas muestran un 40% más de retención que los que estudian con métodos tradicionales.\n\nAdemás, la gamificación y las comunidades de aprendizaje online están creando ecosistemas donde el conocimiento fluye de forma horizontal, sin jerarquías.",
+      "category": "Educación",
+      "author": "María Sánchez",
+      "date": "8 ago 2026",
+      "readTime": "6 min de lectura",
+      "image": "https://images.unsplash.com/photo-1610484826967-09c5720778c7?w=800&h=500&fit=crop&auto=format",
+      "highlights": [
+        "40% más de retención con aprendizaje adaptativo.",
+        "Gamificación como motor de motivación.",
+        "Comunidades horizontales de aprendizaje."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "E-commerce en Colombia: tendencias para 2026",
+      "excerpt": "El comercio electrónico en Colombia creció un 35% y sigue acelerando. Estas son las tendencias clave.",
+      "content": "Colombia se consolida como uno de los mercados de comercio electrónico de mayor crecimiento en América Latina. Con un 35% de crecimiento interanual, el país supera las proyecciones más optimistas del sector.\n\nLos factores detrás de este crecimiento incluyen la mayor penetración de internet en zonas rurales, el boom de las billeteras digitales y la confianza creciente del consumidor en las compras online. Plataformas como Mercado Libre, Falabella y nuevos marketplaces locales compiten ferozmente por liderar este mercado.\n\nLas tendencias para la segunda mitad de 2026 apuntan al live commerce, la entrega en menos de dos horas y la integración de IA para personalizar la experiencia de compra.",
+      "category": "Comercio",
+      "author": "Diego Torres",
+      "date": "6 ago 2026",
+      "readTime": "5 min de lectura",
+      "image": "https://images.unsplash.com/photo-1588873281272-14886ba1f737?w=800&h=500&fit=crop&auto=format",
+      "highlights": [
+        "35% de crecimiento interanual en e-commerce.",
+        "Live commerce: el futuro de las ventas online.",
+        "Entrega en menos de dos horas en ciudades principales."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Los mejores smartphones del año según expertos",
+      "excerpt": "Analizamos los dispositivos que marcaron la pauta en 2026: rendimiento, cámara y batería.",
+      "content": "Cada año, el mercado de smartphones se transforma con lanzamientos que redefinen lo que esperamos de un dispositivo móvil. En 2026, la competencia entre Samsung, Apple y los fabricantes chinos ha alcanzado un nivel sin precedentes.\n\nLos expertos coinciden: la cámara sigue siendo el factor decisivo para la mayoría de compradores, seguida de la duración de la batería y el rendimiento general. En este contexto, tres dispositivos se destacan claramente del resto.\n\nEl Galaxy S26 Ultra lidera en fotografía nocturna. El iPhone 17 Pro Max en ecosistema y privacidad. Y el Xiaomi 15 Ultra en relación precio-calidad.",
+      "category": "Tecnología",
+      "author": "Laura Pérez",
+      "date": "5 ago 2026",
+      "readTime": "7 min de lectura",
+      "image": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?w=800&h=500&fit=crop&auto=format",
+      "highlights": [
+        "Galaxy S26 Ultra: líder en fotografía nocturna.",
+        "iPhone 17 Pro Max: ecosistema y privacidad.",
+        "Xiaomi 15 Ultra: mejor precio-calidad del año."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Realidad virtual: una nueva forma de viajar sin salir de casa",
+      "excerpt": "Los tours virtuales de alta fidelidad prometen democratizar el turismo y abrir nuevos mercados.",
+      "content": "La realidad virtual está revolucionando la industria del turismo de formas que nadie imaginaba hace apenas cinco años. Hoy es posible recorrer el Machu Picchu, bucear en la Gran Barrera de Coral o pasear por las calles de París sin salir del salón de casa.\n\nEmpresas como Google, Meta y startups especializadas invierten masivamente en mejorar la fidelidad de estos tours. El resultado son experiencias que, aunque no reemplazan el viaje real, lo complementan y en algunos casos lo democratizan para personas con movilidad reducida o recursos limitados.\n\nEl mercado de turismo VR se proyecta en USD 17 mil millones para 2028.",
+      "category": "Turismo",
+      "author": "Sofía Mendoza",
+      "date": "3 ago 2026",
+      "readTime": "4 min de lectura",
+      "image": "https://images.unsplash.com/photo-1433838552652-f9a46b332c40?w=800&h=500&fit=crop&auto=format",
+      "highlights": [
+        "Mercado VR turístico: USD 17 mil millones para 2028.",
+        "Tours de alta fidelidad para personas con movilidad reducida.",
+        "Google y Meta lideran la inversión en el sector."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Startups de EdTech que deberías seguir en 2026",
+      "excerpt": "Estas empresas emergentes están redefiniendo el futuro de la educación con tecnología de punta.",
+      "content": "El ecosistema de EdTech latinoamericano nunca había sido tan vibrante. Inversores de todo el mundo ponen sus ojos en startups que nacieron con la misión de hacer la educación más accesible, efectiva y atractiva.\n\nDesde plataformas de tutorías con IA hasta herramientas de evaluación automatizada, el panorama es diverso y prometedor. Tres startups destacan por su tracción y modelo de negocio: Platzi, Crehana y Duolingo para el idioma.\n\nLa clave del éxito de estos modelos: bajo costo, alta calidad y una comunidad activa que impulsa el engagement orgánicamente.",
+      "category": "Educación",
+      "author": "Andrés Mora",
+      "date": "2 ago 2026",
+      "readTime": "5 min de lectura",
+      "image": "https://images.unsplash.com/photo-1597933471507-1ca5765185d8?w=800&h=500&fit=crop&auto=format",
+      "highlights": [
+        "Platzi: la universidad digital de América Latina.",
+        "Crehana: creatividad y habilidades blandas.",
+        "Modelo comunitario como ventaja competitiva."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "IA generativa y el futuro del marketing digital",
+      "excerpt": "Cómo las herramientas de IA están cambiando la forma en que las marcas crean y distribuyen contenido.",
+      "content": "La inteligencia artificial generativa está transformando el marketing digital a una velocidad vertiginosa. Herramientas como ChatGPT, Midjourney y Sora permiten a equipos pequeños producir contenido que antes requería grandes presupuestos y equipos especializados.\n\nLas marcas que adoptan IA en su flujo de contenido reportan una reducción del 60% en tiempo de producción y un aumento del 35% en engagement. Pero el cambio no es solo de eficiencia: la IA permite un nivel de personalización nunca visto, adaptando mensajes en tiempo real según el comportamiento del usuario.\n\nEl reto ético: autenticidad, transparencia y el rol del humano en el proceso creativo.",
+      "category": "Comercio",
+      "author": "Valentina Cruz",
+      "date": "1 ago 2026",
+      "readTime": "6 min de lectura",
+      "image": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?w=800&h=500&fit=crop&auto=format",
+      "highlights": [
+        "60% de reducción en tiempo de producción de contenido.",
+        "35% de aumento en engagement con contenido personalizado.",
+        "El debate ético sobre autenticidad en marketing con IA."
+      ]
+    }
+  ]
+}
